@@ -1,0 +1,24 @@
+.new-post{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.all-posts{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+    margin: 20px;
+}
+
+.post{
+    border: 0.1px solid gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    max-width: 600px;
+    box-sizing: border-box;
+    margin: 5px 20px;
+}
+
